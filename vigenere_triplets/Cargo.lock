@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "vigenere_matches"
+name = "vigenere_triplets"
 version = "0.1.0"
